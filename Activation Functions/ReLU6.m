@@ -6,3 +6,4 @@ y(x>=6) = 6;
 plot(x,y);
 xlabel('x');
 ylabel('y');
+grid on
