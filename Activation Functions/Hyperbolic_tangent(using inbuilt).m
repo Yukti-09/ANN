@@ -4,3 +4,4 @@ y = tanh(x);
 plot(x,y);
 xlabel('x');
 ylabel('y');
+grid on
