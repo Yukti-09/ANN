@@ -5,3 +5,4 @@ y(x<0) = 0;
 plot(x,y);
 xlabel('x');
 ylabel('y');
+grid on
