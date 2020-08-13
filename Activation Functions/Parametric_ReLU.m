@@ -5,3 +5,4 @@ y = @(x) (x).*((x > 0)) + (a*x).*((x < 0)) ;
 fplot(y);
 xlabel('x');
 ylabel('y');
+grid on
