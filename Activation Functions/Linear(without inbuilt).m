@@ -6,3 +6,4 @@ y = m*x;
 plot(x,y);
 xlabel('x');
 ylabel('y');
+grid on
