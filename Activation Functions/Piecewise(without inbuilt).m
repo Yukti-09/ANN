@@ -4,3 +4,4 @@ x = -10:0.01:10;
 fplot(y);
 xlabel('x');
 ylabel('y');
+grid on
