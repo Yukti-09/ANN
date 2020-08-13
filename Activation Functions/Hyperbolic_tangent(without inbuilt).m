@@ -5,3 +5,4 @@ y = (exp(a.*(x))-exp(-a.*(x)))./(exp(a.*(x))+exp(-a.*(x)));
 plot(x,y);
 xlabel('x')
 ylabel('y')
+grid on
