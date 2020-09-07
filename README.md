@@ -1,2 +1,2 @@
-# ANN
-This repository contains the implementation of Artificial Neural Networks in MATLAB.
+# Artificial Neural Network
+This repository contains the implementation of Artificial Neural Network in MATLAB.
