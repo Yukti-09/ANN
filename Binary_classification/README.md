@@ -5,6 +5,6 @@
 - Error has been calculated for 1 epoch.
 
 ## The weights have been updated in the following way:
-- If the desired output = the output from the neural network, no update is made therefore w(k+1)=w(k)
-- If the desired output > the output from the neural network, update is made by w(k+1)=w(k)+ηx(k)
-- If the desired output < the output from the neural network, update is made by w(k+1)=w(k)-ηx(k)
+- If the desired output = the output from the neural network, no update is made therefore w(k+1) = w(k)
+- If the desired output > the output from the neural network, update is made by w(k+1) = w(k)+ηx(k)
+- If the desired output < the output from the neural network, update is made by w(k+1) = w(k)-ηx(k)
