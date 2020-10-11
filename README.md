@@ -1,5 +1,5 @@
 # Artificial Neural Networks
-![](https://img.shields.io/github/repo-size/Yukti-09/Artificial-Neural-Networks)
+![](https://img.shields.io/github/repo-size/Yukti-09/Artificial-Neural-Networks)  ![](https://img.shields.io/github/last-commit/Yukti-09/Artificial-Neural-Networks)
 
 This repository contains the implementation of Artificial Neural Networks in MATLAB and Python.
 
